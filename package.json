@@ -1,6 +1,6 @@
 {
   "name": "gulp-markdown-it-adapter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An adapter for Gulp to render Markdown files with Markdown-It",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/m18ru/gulp-markdown-it-adapter/issues"
   },
-  "homepage": "https://github.com/m18ru/gulp-markdown-it-adapter#readme"
+  "homepage": "https://github.com/m18ru/gulp-markdown-it-adapter#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
 }
