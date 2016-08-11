@@ -1,0 +1,29 @@
+{
+  "name": "gulp-markdown-it-adapter",
+  "version": "0.1.0",
+  "description": "An adapter for Gulp to render Markdown files with Markdown-It",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m18ru/gulp-markdown-it-adapter.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "markdown",
+    "markdown-it"
+  ],
+  "author": {
+    "name": "Andrey Volynkin",
+    "email": "code@m18.ru",
+    "url": "http://m18.ru/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m18ru/gulp-markdown-it-adapter/issues"
+  },
+  "homepage": "https://github.com/m18ru/gulp-markdown-it-adapter#readme"
+}
